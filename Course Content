@@ -1,3 +1,5 @@
 SQL Tutorial
 DQL Commands:
 Select is a DQL command
+DDL Commands:
+to change the structure of table. create the table, alter table, drop table
